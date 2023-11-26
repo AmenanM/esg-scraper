@@ -1,14 +1,7 @@
 # Initial page config
 import streamlit as st
 import pandas as pd
-import plotly
-import plotly.express as px
-from streamlit_elements import elements, mui, html
-import numpy as np
-from streamlit_extras.stylable_container import stylable_container 
-from datetime import datetime
 import yfinance as yfin
-from streamlit_extras.metric_cards import style_metric_cards 
 
 
 st.set_page_config(
