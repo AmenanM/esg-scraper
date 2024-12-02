@@ -1,3 +1,3 @@
-pandas==2.0.3
-streamlit==1.28.1
-yfinance==0.2.32
+pandas
+streamlit
+yfinance
