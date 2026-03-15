@@ -22,6 +22,7 @@ st.markdown("<h1 style='text-align: left;color:#2c9451'>ESG <span style='color:#
 st.write('')
 st.markdown("<h6 style='text-align: left;'>A few of the top 500 companies ESG score metrics</h6>", unsafe_allow_html=True)
 st.write('')
+st.write('')
 
 #Write company names
 
